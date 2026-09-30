@@ -3,7 +3,9 @@
 This plan comes from an analysis of all 28 unique past papers in this repo
 (2013–2019) and a chapter-by-chapter check of *Principles of Highway Engineering
 and Traffic Analysis* (Mannering & Washburn, 5th ed.). For formulas to memorize
-or put on an aid sheet, see [`FORMULA_SHEETS.md`](FORMULA_SHEETS.md).
+or put on an aid sheet, see [`FORMULA_SHEETS.md`](FORMULA_SHEETS.md). For every
+past question grouped by type, with repeat counts and what to read, see
+[`QUESTION_BANK.md`](QUESTION_BANK.md).
 
 ---
 
