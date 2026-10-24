@@ -248,9 +248,9 @@ log₁₀W₁₈ = Z_R·S₀ + 9.36·log₁₀(SN+1) − 0.20 + log₁₀[ΔPSI/
 - M_R ≈ 1500·CBR (psi)
 
 **Layered design:**
-1. SN₁ from the equation with M_R = E_base. Then D₁ ≥ SN₁/a₁ (round up and apply the minimum), and SN₁* = a₁·D₁.
-2. SN₂ with M_R = E_subbase. Then D₂ ≥ (SN₂ − SN₁*)/(a₂m₂).
-3. SN₃ with the subgrade M_R. Then D₃ ≥ (SN₃ − SN₁* − SN₂*)/(a₃m₃).
+1. SN₁ from the equation with M_R = E_base. Then D₁ ≥ SN₁/a₁ (round up and apply the minimum), and SN₁\* = a₁·D₁.
+2. SN₂ with M_R = E_subbase. Then D₂ ≥ (SN₂ − SN₁\*)/(a₂m₂).
+3. SN₃ with the subgrade M_R. Then D₃ ≥ (SN₃ − SN₁\* − SN₂\*)/(a₃m₃).
 
 **Minimum thicknesses (inches):**
 
