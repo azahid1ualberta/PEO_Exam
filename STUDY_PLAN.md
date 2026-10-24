@@ -161,6 +161,10 @@ Also useful, and short:
 - **OAPC, "The ABC's of PGAC"** (Ontario Asphalt Pavement Council). The Dec 2019 A6 paper quotes it directly.
 - **TAC Geometric Design Guide for Canadian Roads**: only the superelevation/spiral tables and clear-zone tables, to learn how to *use* them. The exam supplies the tables.
 - **AASHTO 1993 Guide, Part II, Ch. 2–3**: the charts the exam appendices reproduce (layer coefficients, mᵢ, composite k, rigid nomograph). Practice reading them.
+- **Roess, Prassas & McShane, *Traffic Engineering*, 4th ed.** (if you already own it):
+  - **Use Ch 6 only.** §6.1 covers uninterrupted-flow models (Greenshields), §6.2 queueing, §6.3 shock waves. This replaces the G&H shock-wave reading for B7 Q4 and backs up B7 Q2.
+  - Ch 25 (ITS) is an optional skim for the ITS/CAV parts of B7 Q1.
+  - It doesn't cover trip generation, the gravity model, logit/IIA, route choice, or anything on pavements, so it can't replace G&H for those.
 
 ---
 
@@ -196,8 +200,8 @@ past versions** of that question type from the practice set.
 | Day | Template | Read | Practice (practice-set papers only) |
 |---|---|---|---|
 | 3 | **Q2 D/D/1 queuing** | Mannering §5.5.2 (Ex 5.7–5.10, 5.15), §7.5.1 (Ex 7.10–7.12) | May13 Q2, May14 Q2, Dec14 Q2, May15 Q2, Dec16 Q2, May17 Q2. Signals: Dec13 Q2, May16 Q2. Time-varying: Dec17 Q2 |
-| 4 | **Q4 shock waves: stopped queue** | Mannering §5.2–5.3 (Ex 5.2–5.3) + G&H shock waves | May13 Q4, Dec13 Q4, Dec14 Q4, May15 Q4, May16 Q4, May17 Q4 |
-| 5 | **Q4 shock waves: moving bottleneck** | G&H shock waves | May14 Q4, Dec15 Q4, Dec16 Q4, Dec17 Q4 |
+| 4 | **Q4 shock waves: stopped queue** | Mannering §5.2–5.3 (Ex 5.2–5.3) + G&H shock waves (or Roess 4th ed. §6.1, §6.3) | May13 Q4, Dec13 Q4, Dec14 Q4, May15 Q4, May16 Q4, May17 Q4 |
+| 5 | **Q4 shock waves: moving bottleneck** | G&H shock waves (or Roess 4th ed. §6.3) | May14 Q4, Dec15 Q4, Dec16 Q4, Dec17 Q4 |
 | 6 | **Q3 trip generation** | Mannering §8.4 (Ex 8.1–8.3) + G&H cross-classification | May13 → Dec17 Q3 (pick five) |
 | 7 | **Q5 gravity model** | G&H trip distribution | May13 Q5, Dec13 Q5 (5 zones), May15 Q5, Dec15 Q5, May17 Q5 (two friction factors), Dec17 Q5 (exp) |
 | 8 | **UE route choice (+ SO)** | Mannering §8.6 (Ex 8.10–8.16) | May13 Q6, Dec14 Q6, Dec15 Q6, May16 Q6, Dec17 Q7 |

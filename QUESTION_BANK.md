@@ -117,6 +117,7 @@ Exception: in May 2017 and Dec 2017, mode choice is Q6 and route choice is Q7.
 - Textbook §5.5.1–5.5.2, p. 151–159 (Ex 5.7–5.10), for D/D/1 basics and time-varying rates.
 - Textbook §5.6, p. 165–167 (Ex 5.15), for bottlenecks and incidents.
 - Textbook §7.5.1, p. 254–261 (Ex 7.10–7.12), for signal cycles. **Ex 7.12 = time-varying arrivals at a signal.**
+- Optional second source: Roess, Prassas & McShane, *Traffic Engineering* 4th ed., §6.2 Queueing theory.
 
 The textbook covers this fully. **Every version asks:** (a) sketch cumulative
 arrival/departure curves and find when the queue clears; (b) maximum queue
@@ -136,7 +137,7 @@ arrival/departure curves and find when the queue clears; (b) maximum queue
 **Read:**
 - Textbook §5.2, p. 135–141 (Ex 5.1–5.2), for q = k·u.
 - Textbook §5.3, p. 141–146 (Ex 5.3), for the linear (Greenshields) model: part (a) of every version.
-- **Shock waves aren't in the textbook.** Read G&H, *Fundamental Principles of Traffic Flow*, the shock-wave section.
+- **Shock waves aren't in the textbook.** Read G&H, *Fundamental Principles of Traffic Flow* (shock-wave section), **or**, if you own it, Roess, Prassas & McShane, *Traffic Engineering* 4th ed., **§6.1 (uninterrupted-flow models) and §6.3 (shock-wave theory)**.
 - Recipe: `FORMULA_SHEETS.md` §B2.
 
 **Every version asks:** (a) jam density and density at capacity (or free-flow
@@ -512,7 +513,7 @@ Read these textbook sections first. Each one pays off across many past questions
 | §8.7–8.9 Forecasting practice (p. 315–320) | none | B7 Q1 theory |
 
 **Not in the textbook** (use G&H or the named guide):
-- Shock waves (B7 Q4)
+- Shock waves (B7 Q4); Roess et al. 4th ed. §6.3 also covers them
 - Gravity model (B7 Q5)
 - Cross-classification (B7 Q3a)
 - IIA / nested logit (B7 Q7c)
