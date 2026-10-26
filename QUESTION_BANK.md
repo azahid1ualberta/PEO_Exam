@@ -267,6 +267,9 @@ nested-logit answer.** It is worth 6–8 marks almost every time.
 **Weight the "current" counts more.** The 2017–2019 papers are the ones set for
 your syllabus.
 
+For a question-by-question check of what the textbook covers, see
+[`A6_BOOK_COVERAGE.md`](A6_BOOK_COVERAGE.md).
+
 ### Summary by question type
 
 | Code | Question type | Current (2017–19) | Old (2013–16) | Total | Priority |
