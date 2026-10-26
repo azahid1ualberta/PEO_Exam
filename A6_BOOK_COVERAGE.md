@@ -11,7 +11,7 @@ Page numbers are **printed** book pages. Add 14 for the PDF page.
 ## Legend
 
 - ✅ **Covered.** The book's method and worked examples are enough to score most of the marks.
-- ◐ **Partly.** The book covers the core calculation, but one step needs an AASHTO-93 or TAC/MTO chart or table. **The exam prints those charts in its appendix**, so you need to know how to use them.
+- ◐ **Partly.** The book covers part of the question, but a step needs an AASHTO-93 or TAC/MTO chart or table (**the exam prints these in its appendix**) or one of the five add-on skills in §3.
 - ❌ **Not covered.** You need another source.
 
 ---
@@ -20,7 +20,7 @@ Page numbers are **printed** book pages. Add 14 for the PDF page.
 
 | Papers | Questions | ✅ Covered | ◐ Partly | ❌ Not covered |
 |---|---|---|---|---|
-| **Current 16-Civ-A6 (2017–2019)** | 38 | **19** | **13** | **6** |
+| **Current 16-Civ-A6 (2017–2019)** | 38 | **19** | **14** | **5** |
 | Old 98-Civ-B7 (2013–2016) | 56 | 18 | 10 | 28 |
 
 - **2017 (May and Dec): every question is covered by the book.** The examiner used the book's own tables, and several questions mirror its examples (Ex 4.1, 4.2, 4.4).
@@ -34,7 +34,7 @@ Page numbers are **printed** book pages. Add 14 for the PDF page.
 |---|---|---|---|---|
 | May 2017 | 5 of 7 | **7** (all) | 0 | Yes |
 | Dec 2017 | 5 of 7 | **7** (all) | 0 | Yes |
-| May 2018 | 5 of 7 | 2 (Q1, Q4) | 2 (Q2, Q3) | Yes, if you add Q7 (life-cycle cost, add-on 5) |
+| May 2018 | 5 of 7 | 2 (Q1, Q4) | 3 (Q2, Q3, Q7) | Yes |
 | Dec 2018 | 4 of 5 | 1 (Q4) | 4 (Q1, Q2, Q3, Q5) | Yes |
 | May 2019 | 4 of 5 | 1 (Q4) | 3 (Q1, Q2, Q3) | Yes |
 | Dec 2019 | 5 of 7 | 1 (Q1) | 4 (Q2, Q3, Q4, Q5) | Yes |
