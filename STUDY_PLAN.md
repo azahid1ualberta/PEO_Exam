@@ -1,5 +1,9 @@
 # PEO Exam Prep: A6 and B7 in 45 Days
 
+> **Update:** the A6 exam is on **Nov 5**. For A6, follow the 7-day plan in
+> [`A6_7_DAY_SPRINT.md`](A6_7_DAY_SPRINT.md) instead of the A6 days below, and put B7
+> on hold until after the exam.
+
 This plan comes from an analysis of all 28 unique past papers in this repo
 (2013–2019) and a chapter-by-chapter check of *Principles of Highway Engineering
 and Traffic Analysis* (Mannering & Washburn, 5th ed.). For formulas to memorize
